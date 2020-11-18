@@ -13,7 +13,7 @@
 ![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=orange)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=orange)
-![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=orange)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
 ![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=orange)
 ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=orange)
 ![Node](https://img.shields.io/badge/CLI-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=orange)
