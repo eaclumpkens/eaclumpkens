@@ -1,8 +1,8 @@
 ### Table of Contents
 
-[Technologies & Languages](#tech-lang)
+- [Technologies & Languages](#tech-lang)
 
-[GitHub Stats](#git-stats)
+- [GitHub Stats](#git-stats)
 
 ----
 
