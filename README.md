@@ -2,12 +2,11 @@
 
 ### Table of Contents
 
-- [Technologies & Languages](#tech-lang)
+1. [Technologies & Languages](#tech-lang)
 
-- [GitHub Stats](#git-stats)
+2. [GitHub Stats](#git-stats)
 
 ----
-
 <a name="tech-lang"></a>
 
 ### Technologies & Languages
@@ -22,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
 ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=orange)
 
+----
 <a name="git-stats"></a>
 
 ### Github Stats
