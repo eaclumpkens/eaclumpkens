@@ -1,4 +1,4 @@
-# Welcome <img src="img/wave.gif" width="30px">
+# Welcome
 
 ### Table of Contents
 
