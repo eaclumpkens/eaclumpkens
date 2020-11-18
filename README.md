@@ -1,3 +1,5 @@
+# Welcome <img src="img/wave.gif" width="30px">
+
 ### Table of Contents
 
 - [Technologies & Languages](#tech-lang)
