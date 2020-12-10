@@ -12,7 +12,7 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 ![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff4d00)
 ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=ff4d00)
 ![Node](https://img.shields.io/badge/CLI-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=ff7400)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f9a00)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff9a00)
 ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=ffc100)
 
 ----
