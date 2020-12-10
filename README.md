@@ -1,4 +1,5 @@
 # Welcome <img src="./favicon.ico" width="30px">
+----
 
 Thanks for checking out my profile! My name's Elisabeth - I'm currently working on a certificate in full-stack development with the University of Richmond. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.github.io).
 
@@ -24,5 +25,6 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495)](https://github.com/anuraghazra/github-readme-stats)<br> 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eaclumpkens&show_icons=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eaclumpkens&show_icons=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+
