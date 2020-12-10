@@ -6,8 +6,9 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 
 ### Technologies & Languages
 
-![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=ff0000&logo=html)
-![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=ff0000&logo=css)
+![Git](https://img.shields.io/static/v1?label=vc&message=Git&color=0000&logo=git)
+![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=ff0000&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=ff0000&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=ff0000&logo=javascript)
 ![Bootstrp](https://img.shields.io/static/v1?label=stack&message=Bootstrap&color=ff7400&logo=bootstrap)
 ![jQuery](https://img.shields.io/static/v1?label=stack&message=jQuery&color=ff7400&logo=jquery)
