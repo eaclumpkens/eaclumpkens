@@ -16,7 +16,7 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=ff7400&logo=heroku)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=ffc100&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=ffc100&logo=mongodb)
-![Handlebars](https://img.shields.io/static/v1?label=code&message=Handlebars&color=ff0000&logo=handlebars)
+![Handlebars](https://img.shields.io/static/v1?label=template&message=Handlebars&color=ff0000&logo=handlebars)
 
 
 ----
