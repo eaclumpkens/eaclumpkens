@@ -1,8 +1,8 @@
 # Welcome <img src="./favicon.ico" width="30px">
 
-----
-
 Thanks for checking out my profile! My name's Elisabeth - I'm currently working on a certificate in full-stack development with the University of Richmond. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.github.io).
+
+----
 
 <a name="tech-lang"></a>
 
@@ -19,8 +19,6 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=ffc100&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=ffc100&logo=mongodb)
 ![Handlebars](https://img.shields.io/static/v1?label=template&message=Handlebars&color=ff0000&logo=handlebars)
-
-----
 
 <a name="git-stats"></a>
 
