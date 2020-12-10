@@ -1,4 +1,4 @@
-# Welcome <img src="img/favicon.ico">
+# Welcome <img src="./favicon.ico">
 
 Thanks for checking out my profile! My name's Elisabeth - I'm currently working on a certificate in full-stack development with the University of Richmond. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.github.io).
 
