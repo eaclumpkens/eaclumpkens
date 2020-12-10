@@ -1,12 +1,5 @@
 # Welcome
 
-### Table of Contents
-
-1. [Technologies & Languages](#tech-lang)
-
-2. [GitHub Stats](#git-stats)
-
-----
 <a name="tech-lang"></a>
 
 ### Technologies & Languages
