@@ -24,5 +24,5 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495)](https://github.com/anuraghazra/github-readme-stats)<br> 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eaclumpkens&show_icons=true) 
