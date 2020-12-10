@@ -1,5 +1,7 @@
 # Welcome
 
+Thanks for checking out my profile! My name's Elisabeth - I'm currently working on a certificate in full-stack development with the University of Richmond. Check out some of the projects I've been working on in and out of class as well as my [portfolio](https://eaclumpkens.github.io).
+
 <a name="tech-lang"></a>
 
 ### Technologies & Languages
