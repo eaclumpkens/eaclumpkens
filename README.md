@@ -17,6 +17,8 @@ Thanks for checking out my profile! My name's Elisabeth - I'm currently working 
 ![MongoDB](https://img.shields.io/static/Database?style=for-the-badge=mongodb&logoColor=white&color=ffc100&logo=mongodb)
 ![Heroku](https://img.shields.io/static/Stack?style=for-the-badge=Heroku&logoColor=white&color=ffc100&logo=heroku)
 
+![Heroku](https://img.shields.io/static/v1?label=code&message=HTML&color=ff0000&logo=html)
+
 ----
 <a name="git-stats"></a>
 
