@@ -13,11 +13,13 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in full-stack d
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=ff0000&logo=javascript)
 ![Bootstrp](https://img.shields.io/static/v1?label=stack&message=Bootstrap&color=ff7400&logo=bootstrap)
 ![jQuery](https://img.shields.io/static/v1?label=stack&message=jQuery&color=ff7400&logo=jquery)
+![React](https://img.shields.io/static/v1?label=template&message=React&color=ff7400&logo=react)
 ![Handlebars](https://img.shields.io/static/v1?label=template&message=Handlebars&color=ff7400&logo=handlebars)
 ![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=ff7400&logo=node.js)
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=ff7400&logo=heroku)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=ffc100&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=ffc100&logo=mongodb)
+![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=ffc100&logo=indexdb)
 
 <a name="git-stats"></a>
 
