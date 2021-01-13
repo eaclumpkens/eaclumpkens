@@ -8,7 +8,7 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in full-stack d
 
 ### Technologies & Languages
 
-<div style="text-align: center">
+
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=4cba5a&logo=javascript)
@@ -21,7 +21,6 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in full-stack d
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=4cba5a&logo=mongodb)
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
-</div>
 
 <a name="git-stats"></a>
 
