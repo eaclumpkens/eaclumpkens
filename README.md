@@ -15,6 +15,7 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in full-stack d
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=4cba5a&logo=javascript)
+![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
 ![jQuery](https://img.shields.io/static/v1?label=stack&message=jQuery&color=4cba5a&logo=jquery)
 ![React](https://img.shields.io/static/v1?label=template&message=React&color=4cba5a&logo=react)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=4cba5a&logo=mongodb)
