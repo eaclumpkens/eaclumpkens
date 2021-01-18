@@ -18,7 +18,7 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in web developm
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=4cba5a&logo=javascript)
 ![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
 ![jQuery](https://img.shields.io/static/v1?label=stack&message=jQuery&color=4cba5a&logo=jquery)
-![React](https://img.shields.io/static/v1?label=template&message=React&color=5199ea&logo=react)
+![React](https://img.shields.io/static/v1?label=stack&message=React&color=5199ea&logo=react)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=5199ea&logo=mongodb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 ![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=5199ea&logo=node.js)
