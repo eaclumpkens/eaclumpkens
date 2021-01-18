@@ -10,7 +10,7 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in web developm
 
 ![Bootstrap](https://img.shields.io/static/v1?label=stack&message=Bootstrap&color=4cba5a&logo=bootstrap)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
-![Express](https://img.shields.io/static/v1?label=template&message=express&color=35823e&logo=express)
+![Express](https://img.shields.io/static/v1?label=template&message=express&color=5199ea&logo=express)
 ![Handlebars](https://img.shields.io/static/v1?label=template&message=Handlebars&color=4cba5a&logo=handlebars)
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
@@ -18,10 +18,10 @@ Hi! My name's Elisabeth - I'm currently working on a certificate in web developm
 ![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=4cba5a&logo=javascript)
 ![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
 ![jQuery](https://img.shields.io/static/v1?label=stack&message=jQuery&color=4cba5a&logo=jquery)
-![React](https://img.shields.io/static/v1?label=template&message=React&color=35823e&logo=react)
-![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=35823e&logo=mongodb)
+![React](https://img.shields.io/static/v1?label=template&message=React&color=5199ea&logo=react)
+![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=5199ea&logo=mongodb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
-![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=35823e&logo=node.js)
+![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=5199ea&logo=node.js)
 
 <a name="git-stats"></a>
 
