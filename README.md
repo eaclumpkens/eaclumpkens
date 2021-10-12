@@ -20,7 +20,7 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 ![Handlebars](https://img.shields.io/static/v1?label=template&message=Handlebars&color=4cba5a&logo=handlebars)
 ![Bootstrap](https://img.shields.io/static/v1?label=stack&message=Bootstrap&color=4cba5a&logo=bootstrap)
 
-![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=5199ea&logo=mongodb)
+![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=4cba5a&logo=mongodb)
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 ![Hasura](https://img.shields.io/static/v1?label=database&message=Hasura&color=4cba5a&logo=hasura)
