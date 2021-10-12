@@ -8,15 +8,15 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 
 ### Technologies & Languages
 
-![React](https://img.shields.io/static/v1?label=stack&message=React&color=4cba5a&logo=react)
-![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=4cba5a&logo=node.js)
+![React](https://img.shields.io/static/v1?label=stack&message=React&color=ce7e00&logo=react)
+![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=ce7e00&logo=node.js)
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
-![Netlify](https://img.shields.io/static/v1?label=stack&message=Netlify&color=4cba5a&logo=netlify)
+![Netlify](https://img.shields.io/static/v1?label=stack&message=Netlify&color=ce7e00&logo=netlify)
 ![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
 
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
-![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=4cba5a&logo=javascript)
+![Javascript](https://img.shields.io/static/v1?label=code&message=Javascript&color=ce7e00&logo=javascript)
 ![jQuery](https://img.shields.io/static/v1?label=code&message=jQuery&color=4cba5a&logo=jquery)
 ![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
 
@@ -27,8 +27,8 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 
-![GraphQL](https://img.shields.io/static/v1?label=database&message=GraphQL&color=4cba5a&logo=GraphQL)
-![Hasura](https://img.shields.io/static/v1?label=engine&message=Hasura&color=4cba5a&logo=hasura)
+![GraphQL](https://img.shields.io/static/v1?label=database&message=GraphQL&color=ce7e00&logo=GraphQL)
+![Hasura](https://img.shields.io/static/v1?label=engine&message=Hasura&color=ce7e00&logo=hasura)
 
 <a name="git-stats"></a>
 
