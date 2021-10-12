@@ -10,10 +10,9 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 
 ![React](https://img.shields.io/static/v1?label=stack&message=React&color=4cba5a&logo=react)
 ![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=4cba5a&logo=node.js)
-![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
-
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
 ![Netlify](https://img.shields.io/static/v1?label=stack&message=Netlify&color=4cba5a&logo=netlify)
+![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
 
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
