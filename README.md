@@ -8,6 +8,10 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 
 ### Technologies & Languages
 
+![React](https://img.shields.io/static/v1?label=stack&message=React&color=4cba5a&logo=react)
+![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=4cba5a&logo=node.js)
+![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
+
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
 ![Netlify](https://img.shields.io/static/v1?label=stack&message=Netlify&color=4cba5a&logo=netlify)
 
@@ -26,10 +30,6 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 
 ![GraphQL](https://img.shields.io/static/v1?label=database&message=GraphQL&color=4cba5a&logo=GraphQL)
 ![Hasura](https://img.shields.io/static/v1?label=engine&message=Hasura&color=4cba5a&logo=hasura)
-
-![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
-![React](https://img.shields.io/static/v1?label=stack&message=React&color=4cba5a&logo=react)
-![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=4cba5a&logo=node.js)
 
 <a name="git-stats"></a>
 
