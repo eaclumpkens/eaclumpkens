@@ -32,6 +32,6 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
 
 <a name="git-stats"></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eaclumpkens&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eaclumpkens&show_icons=true&theme=merko)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaclumpkens&card_width=495&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
