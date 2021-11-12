@@ -2,6 +2,18 @@
 
 Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-stack web development bootcamp. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.netlify.app/). I'm currently working on updating my portfolio and previous projects - stay tuned!
 
+<a href="mailto:eaclumpkens@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+<a href="https://www.linkedin.com/in/eaclumpkens">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+<a href/>
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio(coming-soon)-F6B26B?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+<a href/>
+
 ----
 
 <a name="tech-lang"></a>
