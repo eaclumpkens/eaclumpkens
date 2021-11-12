@@ -10,7 +10,7 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
  </a>
 <a href/>
 <a href="">
-  <img src="https://img.shields.io/badge/Portfolio(coming-soon)-F6B26B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-comming soon-F6B26B?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 <a href/>
 
