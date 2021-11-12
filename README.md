@@ -1,6 +1,6 @@
 # Welcome <img src="./favicon.ico" width="30px">
 
-Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-stack web development bootcamp. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.netlify.app/). <strong>I'm currently working on updating my portfolio and previous projects - stay tuned!</strong>
+Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-stack web development bootcamp. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.netlify.app/). <em>I'm currently working on updating my portfolio and previous projects - stay tuned!</em>
 
 <a href="mailto:eaclumpkens@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4538?style=for-the-badge&logo=gmail&logoColor=white" />
