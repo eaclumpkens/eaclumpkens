@@ -10,7 +10,7 @@ Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-sta
  </a>
 <a href/>
 <a href="https://eaclumpkens.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-90BE6D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-90BE6D?style=for-the-badge&logo=portfolio&logoColor=white" />
  </a>
 <a href/>
 
