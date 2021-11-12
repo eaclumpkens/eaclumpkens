@@ -1,6 +1,6 @@
 # Welcome <img src="./favicon.ico" width="30px">
 
-Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-stack web development bootcamp. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.netlify.app/).
+Hi! My name's Elisabeth - I am a graduate of the University of Richmond full-stack web development bootcamp. Check out some of the projects I've been working on via GitHub or my [portfolio page](https://eaclumpkens.netlify.app/). I'm currently working on updating my portfolio and previous projects - stay tuned!
 
 ----
 
