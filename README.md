@@ -19,7 +19,7 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 
 ### Currently Working On
 
-![TypeScript](https://img.shields.io/static/v1?label=code&message=Typescript&color=9fc5e8&logo=typescript)
+![TypeScript](https://img.shields.io/static/v1?label=code&message=TypeScript&color=9fc5e8&logo=typescript)
 ![Next.JS](https://img.shields.io/static/v1?label=framework&message=Next.JS&color=9fc5e8&logo=next.js)
 ![Firebase](https://img.shields.io/static/v1?label=platform&message=Firebase&color=9fc5e8&logo=firebase)
 
