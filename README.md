@@ -23,7 +23,7 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 ![Next.JS](https://img.shields.io/static/v1?label=framework&message=Next.JS&color=c77dff&logo=next.js)
 ![Firebase](https://img.shields.io/static/v1?label=platform&message=Firebase&color=c77dff&logo=firebase)
 
-![C#](https://img.shields.io/static/v1?label=code&message=C'#'&color=c77dff&logo=c sharp)
+![C#](https://img.shields.io/static/v1?label=code&message=C##&color=c77dff&logo=c sharp)
 ![.NET](https://img.shields.io/static/v1?label=framework&message=.Net&color=c77dff&logo=.net)
 
 ----
