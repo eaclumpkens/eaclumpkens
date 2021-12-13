@@ -47,12 +47,9 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 ### More Tech I've Messed With
 ![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
 ![jQuery](https://img.shields.io/static/v1?label=code&message=jQuery&color=4cba5a&logo=jquery)
-
 ![Handlebars](https://img.shields.io/static/v1?label=library&message=Handlebars&color=4cba5a&logo=handlebars)
 ![Bootstrap](https://img.shields.io/static/v1?label=library&message=Bootstrap&color=4cba5a&logo=bootstrap)
-
 ![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
-
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 
