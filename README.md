@@ -30,28 +30,32 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 
 <a name="tech-lang"></a>
 
-### Crrent Favorite Tools & Technologies
+### Tools & Technologies 
 ![React](https://img.shields.io/static/v1?label=stack&message=React&color=ce7e00&logo=react)
+
 ![Node](https://img.shields.io/static/v1?label=stack&message=Node.JS&color=ce7e00&logo=node.js)
+
 ![Netlify](https://img.shields.io/static/v1?label=stack&message=Netlify&color=ce7e00&logo=netlify)
+![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
+
+![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
 
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
 ![JavaScript](https://img.shields.io/static/v1?label=code&message=Javascript&color=ce7e00&logo=javascript)
 ![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
+![jQuery](https://img.shields.io/static/v1?label=code&message=jQuery&color=4cba5a&logo=jquery)
 
 ![Hasura](https://img.shields.io/static/v1?label=engine&message=Hasura&color=ce7e00&logo=hasura)
 ![MongoDB](https://img.shields.io/static/v1?label=database&message=MongoDB&color=4cba5a&logo=mongodb)
 ![GraphQL](https://img.shields.io/static/v1?label=database&message=GraphQL&color=ce7e00&logo=GraphQL)
-
-### More Tech I've Messed With
-![Express](https://img.shields.io/static/v1?label=stack&message=Express&color=4cba5a&logo=express)
-![jQuery](https://img.shields.io/static/v1?label=code&message=jQuery&color=4cba5a&logo=jquery)
-![Handlebars](https://img.shields.io/static/v1?label=library&message=Handlebars&color=4cba5a&logo=handlebars)
-![Bootstrap](https://img.shields.io/static/v1?label=library&message=Bootstrap&color=4cba5a&logo=bootstrap)
-![Heroku](https://img.shields.io/static/v1?label=stack&message=Heroku&color=4cba5a&logo=heroku)
 ![IndexDB](https://img.shields.io/static/v1?label=database&message=IndexDB&color=4cba5a&logo=indexdb)
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
+
+![MUI](https://img.shields.io/static/v1?label=library&message=MUI&color=4cba5a&logo=MUI)
+![styled-components](https://img.shields.io/static/v1?label=library&message=Styled-Components&color=4cba5a&logo=styled-components)
+![Handlebars](https://img.shields.io/static/v1?label=library&message=Handlebars&color=4cba5a&logo=handlebars)
+![Bootstrap](https://img.shields.io/static/v1?label=library&message=Bootstrap&color=4cba5a&logo=bootstrap)
 
 <a name="git-stats"></a>
 
