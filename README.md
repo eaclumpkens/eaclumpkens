@@ -22,6 +22,7 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 ![TypeScript](https://img.shields.io/static/v1?label=code&message=TypeScript&color=c77dff&logo=typescript)
 ![Next.JS](https://img.shields.io/static/v1?label=framework&message=Next.JS&color=c77dff&logo=next.js)
 ![Firebase](https://img.shields.io/static/v1?label=platform&message=Firebase&color=c77dff&logo=firebase)
+![styled-components](https://img.shields.io/static/v1?label=library&message=Styled-Components&color=c77dff&logo=styled-components)
 
 ![C#](https://img.shields.io/static/v1?label=code&message=CSharp&color=c77dff&logo=csharp)
 ![.NET](https://img.shields.io/static/v1?label=framework&message=.Net&color=c77dff&logo=.net)
@@ -53,7 +54,6 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 ![MySQL](https://img.shields.io/static/v1?label=database&message=mySQL&color=4cba5a&logo=mysql)
 
 ![MUI](https://img.shields.io/static/v1?label=library&message=MUI&color=4cba5a&logo=MUI)
-![styled-components](https://img.shields.io/static/v1?label=library&message=Styled-Components&color=4cba5a&logo=styled-components)
 ![Handlebars](https://img.shields.io/static/v1?label=library&message=Handlebars&color=4cba5a&logo=handlebars)
 ![Bootstrap](https://img.shields.io/static/v1?label=library&message=Bootstrap&color=4cba5a&logo=bootstrap)
 
