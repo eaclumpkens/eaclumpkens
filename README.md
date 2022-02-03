@@ -19,13 +19,12 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 
 ### Currently Working On
 
-![TypeScript](https://img.shields.io/static/v1?label=code&message=TypeScript&color=c77dff&logo=typescript)
+![C#](https://img.shields.io/static/v1?label=code&message=CSharp&color=c77dff&logo=csharp)
+![.NET](https://img.shields.io/static/v1?label=framework&message=.Net&color=c77dff&logo=.net)
+
 ![Next.JS](https://img.shields.io/static/v1?label=framework&message=Next.JS&color=c77dff&logo=next.js)
 ![Firebase](https://img.shields.io/static/v1?label=platform&message=Firebase&color=c77dff&logo=firebase)
 ![styled-components](https://img.shields.io/static/v1?label=library&message=Styled-Components&color=c77dff&logo=styled-components)
-
-![C#](https://img.shields.io/static/v1?label=code&message=CSharp&color=c77dff&logo=csharp)
-![.NET](https://img.shields.io/static/v1?label=framework&message=.Net&color=c77dff&logo=.net)
 
 ----
 
@@ -44,6 +43,7 @@ My name's Elisabeth - I am a graduate of the University of Richmond full-stack w
 ![HTML](https://img.shields.io/static/v1?label=code&message=HTML&color=4cba5a&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=code&message=CSS&color=4cba5a&logo=css3)
 ![JavaScript](https://img.shields.io/static/v1?label=code&message=Javascript&color=ce7e00&logo=javascript)
+![TypeScript](https://img.shields.io/static/v1?label=code&message=TypeScript&color=ce7e00&logo=typescript)
 ![JSX](https://img.shields.io/static/v1?label=code&message=JSX&color=4cba5a&logo=javascript)
 ![jQuery](https://img.shields.io/static/v1?label=code&message=jQuery&color=4cba5a&logo=jquery)
 
